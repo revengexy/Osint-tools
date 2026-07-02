@@ -1,16 +1,18 @@
+
 python3 -m venv venv
-.
-.
+
+
 source venv/bin/activate
-.
-.
-git clone [https://github.com/revengexy/Osint-tools.git]
-.
-.
-.
+
+
+git clone https://github.com/revengexy/Osint-tools.git
+
+
 cd Osint-tools
-.
-.
-.
-python loader.py
+
+
+pip install -r requirements.txt
+
+
+python3 loader.py
 
