@@ -14,5 +14,5 @@ cd Osint-tools
 pip install -r requirements.txt
 
 
-python3 loader.py
+python3 russianosintt.py
 
